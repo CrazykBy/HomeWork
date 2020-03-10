@@ -29,5 +29,5 @@ public class Zad001 {
 				System.out.println("Количество нечётных чисел = " + quant_n + "\n	чётных чисел = " + quant);
 				System.out.printf("Среднее значение нечётных чисел = %.3f\n	чётных чисел = %.3f", mean_n, mean);
 				scan.close();
-			}
+			}//lll
 		}
